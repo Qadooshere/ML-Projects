@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Qadooshere
+- 👀 I’m a Businessman and working in petroleum industry as oil supplier
 - 👀 I’m interested in Artificial intelligence and App development 
 - 🌱 I’m currently learning Artificial intelligence with Python 
 - 💞️ I’m looking to collaborate on ...
